@@ -1,0 +1,14 @@
+{
+  "cn.dev33.satoken.aop.SaCheck@value": {
+    "method": {
+      "parameters": true,
+      "parametersPrefix": [
+        "p",
+        "a"
+      ]
+    },
+    "fields": {
+      "root": "cn.dev33.satoken.aop.SaTokenRootObject"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+### 登录
+GET http://localhost:8081/login?name=liangyun
+
+
+### 测试, 默认体系, 校验登录
+GET  http://localhost:8081/demo1
+
+### 测试, custom体系, 校验登录
+GET  http://localhost:8081/demo2
+
+### 测试, custom体系, 校验登录
+GET  http://localhost:8081/demo3
+
+### 测试, custom体系, 校验未登录
+GET  http://localhost:8081/demo4
+
+### 测试, 默认体系, 校验登录
+GET  http://localhost:8081/demo5
+
+### 测试, custom体系, 校验登录
+GET  http://localhost:8081/demo6
+
+### 测试, custom体系, 校验登录
+GET  http://localhost:8081/demo7
+
