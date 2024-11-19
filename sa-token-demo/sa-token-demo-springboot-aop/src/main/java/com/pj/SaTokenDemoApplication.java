@@ -1,5 +1,6 @@
 package com.pj;
 
+import cn.dev33.satoken.aop.EnableSaSpELCheck;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,6 +12,7 @@ import cn.dev33.satoken.SaManager;
  *
  */
 @SpringBootApplication
+@EnableSaSpELCheck
 public class SaTokenDemoApplication {
 
 	public static void main(String[] args) {
